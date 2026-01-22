@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端工程师/预览.md",
+                "file": "git使用教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "预览"
+              "title": "git使用教程"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端工程师/预览.md",
+                "file": "git使用教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "预览 的反向链接列表"
+              "title": "git使用教程 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端工程师/预览.md",
+                "file": "git使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "预览 的出链列表"
+              "title": "git使用教程 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端工程师/预览.md",
+                "file": "git使用教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "预览 的大纲"
+              "title": "git使用教程 的大纲"
             }
           }
         ]
@@ -201,6 +201,7 @@
   "active": "dec6da6d3a5243dd",
   "lastOpenFiles": [
     "后端工程师/phase0/Phase 0 · 第 1 讲 FastAPI实战：Windows开发环境底座搭建.md",
+    "git使用教程.md",
     "后端工程师/预览.md",
     "后端工程师/phase0",
     "现代后端架构师：从实战到高性能交付.md",
