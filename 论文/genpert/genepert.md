@@ -1,4 +1,4 @@
-
+![file-20260129195314971](asserts)
 ---
 title: "GenePert：用 GenePT embedding + 岭回归预测基因扰动效应（Method 重点 Obsidian 笔记）"
 tags: [paper, perturb-seq, crispr, single-cell, perturbation, genpert, genept, ridge, l2, bias-variance, esm2, deshift, ot]
